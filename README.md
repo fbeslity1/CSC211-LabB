@@ -1,1 +1,1 @@
-# CSC211-LabB
+# This project has 4 different slots labeled projects, with different slots with different names, statuses and descriptions. The user can create new "slots", save them, or delete exsisting "slots". I used https://docs.oracle.com/javafx/scenebuilder/1/get_started/jsbpub-get_started.htm to help me create this project.
